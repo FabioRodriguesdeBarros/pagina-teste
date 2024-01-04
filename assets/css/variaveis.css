@@ -1,0 +1,10 @@
+/* 
+Variáveis globais
+*/
+:root{
+    --primary-color: black;
+    --white-color: white;
+    --light-gray-color:#959090;
+    --secondary-color:crimson;
+    --gap: 2rem; /*<<---Espaçamento para todas seções--------*/
+}
